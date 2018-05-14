@@ -1,0 +1,6 @@
+start
+	if a double or integer is entered for time fallen, continue program.
+		Use user input to calculate how far an object has fallen
+		Display output
+	else show user an error that their input is invalid
+end
