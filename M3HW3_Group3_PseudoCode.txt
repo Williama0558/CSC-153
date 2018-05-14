@@ -1,0 +1,8 @@
+start
+	If the workshop type list box is selected, let user click an option from the workshop type list
+		Set variables for costs based on the option the user selects
+	If the workshop location list box is selected, let user click an option from the workshop location list
+		Set variables for costs based on the city the user selects
+	Calculate costs of going to the workshop
+	Display output
+end

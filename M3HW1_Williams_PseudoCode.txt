@@ -1,0 +1,8 @@
+Start
+	Get user input
+	If they input an integer, contiune program
+		If they put a number between 1 and 10, continue program
+			determine roman numeral based on the number they enter and display output
+		Else give the user a message that their number is too small or large
+	Else give the user a message that they need to put in an integer
+end
