@@ -1,0 +1,19 @@
+start
+	if the allen radio button is checked
+		add the cost of the Allen Hall dorm to the dorm choice cost
+	else if the pike radio button is checked
+		add the cost of the Pike Hall dorm to the dorm choice cost
+	else if the farthing radio button is checked
+		add the cost of the Farthing Hall dorm to the dorm choice cost
+	else if the suites radio button is checked
+		add the cost of the Suites dorm to the dorm choice cost
+	
+	if the seven meals radio button is checked
+		add the cost of the seven meals plan to the meal plan cost
+	else if the fourteen meals radio button is checked
+		add the cost of the fourteen meals plan to the meal plan cost
+	else if the unlimited radio button is checked
+		add the cost of the unlimited plan to the meal plan cost
+	add the meal plan cost and dorm choice cost to the total cost
+	display output
+end
