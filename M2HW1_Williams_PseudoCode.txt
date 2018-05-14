@@ -1,0 +1,4 @@
+start
+	Get User Input
+	Display Output
+end
