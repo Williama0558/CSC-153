@@ -1,0 +1,4 @@
+Start
+	Get user input
+	Display translation for selected button
+End
