@@ -1,0 +1,17 @@
+start
+	Get user input
+	If they input an integer, contiune program
+		If they input a double, continue program
+			If they input an integer, continue program
+				If the integer they input equals one, continue program
+					Add user input to the listbox
+				else, continue program
+					Add user input to the listbox
+					Calculate how many organisms will grow for the second day
+					Add result to listbox
+					Calculate how many organisms will grow for the rest of the days
+					Add result to listbox
+			Else give the user a message that they need to put in an integer
+		Else give the user a message that they need to put in a double
+	Else give the user a message that they need to put in an integer
+end
